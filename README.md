@@ -3,7 +3,7 @@ Here are some latex templates for paper, CV and report, etc.
 
 ## Usage
 ```
-git clone git@github.com:Lucas-Wye/LaTeX-Template.git
+git clone git@github.com:GavinLIgy/LaTeX-Template.git
 ```
 
 There is a `.latexmkrc` in every directory.    
